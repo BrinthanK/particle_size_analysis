@@ -1,7 +1,10 @@
-# particle size and shape analysis 
 
-ER4093 Plant performance Assignment 
+# Particle shape and size analysis 
 
-The DICOM images are from the works of Dr. W. Ashane M. Fernando's PhD works, I kindly acknowledge him for providing the permission to use them.
+This python code will enable reading the DICOM files and preparing for the particle size and shape analysis. This code can be employed in any scientific imagery with or without noise. Users should be aware that the preprocessing techniques could affect the results depending on the type of image of interest.
 
-Google scholar profile of Dr. W. Ashane M. Fernando : https://scholar.google.com/citations?user=c5wIFtYAAAAJ&hl=en&oi=ao
+## Acknowledgements
+
+ - [Dr W. Ashane M. Fernando](https://scholar.google.com/citations?user=c5wIFtYAAAAJ&hl=en&oi=ao) for providing the DICOM file for the application
+
+
